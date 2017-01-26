@@ -13,3 +13,5 @@ jQuery('.alert').on('click', function(e){
 	  type: "success"
 	});
 });
+
+ $('#menu_button').sidr();
