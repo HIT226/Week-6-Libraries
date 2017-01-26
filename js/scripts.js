@@ -14,4 +14,4 @@ jQuery('.alert').on('click', function(e){
 	});
 });
 
- $('#menu_button').sidr();
+$('#menu_button').sidr();
